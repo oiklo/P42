@@ -1,0 +1,5 @@
+Credentials cache: API:A9A2D6A8-581D-4A42-BBCA-35469A7B1ED0
+        Principal: llonger@42.FR
+
+  Issued                Expires               Principal
+Aug 28 11:46:41 2017  Sep  4 11:46:41 2017  krbtgt/42.FR@42.FR
